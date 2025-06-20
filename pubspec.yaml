@@ -33,7 +33,7 @@ dependencies:
   google_maps_flutter: ^2.5.0
   geolocator: ^11.0.0
   geocoding: ^3.0.0
-  flutter_bloc: ^8.1.3 # Opcional, si usas BLoC
+  flutter_bloc: ^8.1.3
   equatable: ^2.0.5 # Para comparar objetos fácilmente
   permission_handler: ^11.3.0 # Para gestionar permisos
   get_it: ^7.6.4 # Inyección de dependencias
